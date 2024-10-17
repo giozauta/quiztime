@@ -1,0 +1,12 @@
+.variant{
+    margin:10px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    padding: 10px;
+}
+.variantActive{
+    margin:10px;
+    background-color: rgb(193, 230, 151);
+    border-radius: 10px;
+    padding: 10px;
+}
